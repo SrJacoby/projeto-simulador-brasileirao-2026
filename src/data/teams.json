@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Athletico Paranaense",
+        "stadium": "Arena da Baixada"
+    },
+    {
+        "name": "Atlético Mineiro",
+        "stadium": "Arena MRV"
+    },
+    {
+        "name": "Bahia",
+        "stadium": "Arena Fonte Nova"
+    },
+    {
+        "name": "Botafogo",
+        "stadium": "Nilton Santos"
+    },
+    {
+        "name": "Chapecoense",
+        "stadium": "Arena Condá"
+    },
+    {
+        "name": "Corinthians",
+        "stadium": "Neo Química Arena"
+    },
+    {
+        "name": "Coritiba",
+        "stadium": "Couto Pereira"
+    },
+    {
+        "name": "Cruzeiro",
+        "stadium": "Mineirão"
+    },
+    {
+        "name": "Flamengo",
+        "stadium": "Maracanã"
+    },
+    {
+        "name": "Fluminense",
+        "stadium": "Maracanã"
+    },
+    {
+        "name": "Grêmio",
+        "stadium": "Arena do Grêmio"
+    },
+    {
+        "name": "Internacional",
+        "stadium": "Beira-Rio"
+    },
+    {
+        "name": "Mirassol",
+        "stadium": "Maião"
+    },
+    {
+        "name": "Palmeiras",
+        "stadium": "Allianz Parque"
+    },
+    {
+        "name": "RB Bragantino",
+        "stadium": "Cícero de Souza Marques"
+    },
+    {
+        "name": "Remo",
+        "stadium": "Mangueirão"
+    },
+    {
+        "name": "Santos",
+        "stadium": "Vila Belmiro"
+    },
+    {
+        "name": "São Paulo",
+        "stadium": "Morumbis"
+    },
+    {
+        "name": "Vasco da Gama",
+        "stadium": "São Januário"
+    },
+    {
+        "name": "Vitória",
+        "stadium": "Barradão"
+    }
+]
