@@ -1,0 +1,42 @@
+.page{
+    padding: 10px;
+    font-family: 'Inter', sans-serif;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.title{
+    text-align: center;
+}
+
+.layout{
+    display: flex;
+    gap: 10px;
+}
+
+.left{
+    flex: 1.5;
+    border-right: 1px solid gray;
+}
+
+.right{
+    flex: 0.5;
+}
+
+@media(max-width: 900px){
+    .layout{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .left{
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid gray;
+        padding-bottom: 20px;
+    }
+
+    .right{
+        width: 100%;
+    }
+}

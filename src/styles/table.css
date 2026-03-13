@@ -1,0 +1,61 @@
+.table{
+    background: white;
+    border-radius: 6px;
+    padding: 6px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    background: #0b3d91;
+    color: white;
+    font-size: 12px;
+}
+
+td, th{
+    padding: 10px 6px;
+    text-align: center;
+}
+
+.teamCell{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.teamCell img{
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
+tbody tr:nth-child(even) {
+  background: #f6f8fb;
+}
+
+tbody tr:nth-child(1),
+tbody tr:nth-child(2),
+tbody tr:nth-child(3),
+tbody tr:nth-child(4) {
+  border-left: 4px solid #2ecc71;
+}
+
+tbody tr:nth-child(5) {
+  border-left: 4px solid #ff8800;
+}
+
+tbody tr:nth-child(6),
+tbody tr:nth-child(7),
+tbody tr:nth-child(8),
+tbody tr:nth-child(9),
+tbody tr:nth-child(10),
+tbody tr:nth-child(11) {
+  border-left: 4px solid #3498db;
+}
+
+tbody tr:nth-last-child(-n+4) {
+  border-left: 4px solid #e74c3c;
+}
