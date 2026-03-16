@@ -1,10 +1,15 @@
 import teams from "../../data/teams.json"
 import "../../styles/table.css"
-import matches from "../../data/matches.json"
 import { calculateTable } from "../../utils/calculateTable"
 
-export default function Table() {
-    const tableData = calculateTable(matches)
+import type { Round } from "../../types/round"
+
+interface Props {
+  rounds: Round[]
+}
+
+export default function Table({ rounds }: Props) {
+    const tableData = calculateTable(rounds)
 
     function getTeam(name: string){
         return teams.find(t => t.name === name)

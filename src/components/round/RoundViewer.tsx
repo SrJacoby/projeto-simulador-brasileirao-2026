@@ -1,23 +1,37 @@
 import { useState } from "react";
-import matches from "../../data/matches.json"
-
 import MatchCard from "./MatchCard";
 import RoundHeader from "./RoundHeader";
+import type { Round } from "../../types/round"
 
 import "../../styles/round.css"
 
-export default function RoundViewer() {
+interface Props {
+  rounds: Round[]
+  setRounds: React.Dispatch<React.SetStateAction<Round[]>>
+  originalRounds: Round[]
+}
+
+export default function RoundViewer({ rounds, setRounds, originalRounds }: Props) {
     const [roundIndex, setRoundIndex] = useState(0)
-    const round = matches[roundIndex]
+    const round = rounds[roundIndex]
 
     function next(){
-        if(roundIndex < matches.length - 1)
+        if(roundIndex < rounds.length - 1)
             setRoundIndex(roundIndex + 1)
     }
 
     function prev() {
         if(roundIndex > 0)
             setRoundIndex(roundIndex - 1)
+    }
+
+    function updateMatch(roundIndex: number, matchIndex: number, homeGoals: number | null, awayGoals: number | null){
+        const newRounds = [...rounds]
+
+        newRounds[roundIndex].matches[matchIndex].homeGoals = homeGoals
+        newRounds[roundIndex].matches[matchIndex].awayGoals = awayGoals
+
+        setRounds(newRounds)
     }
 
     return (
@@ -29,7 +43,7 @@ export default function RoundViewer() {
             />
 
             {round.matches.map((m, i) => (
-                <MatchCard key={i} match={m}/>
+                <MatchCard key={i} match={m} roundIndex={roundIndex} matchIndex={i} onUpdate={updateMatch} originalMatch={originalRounds[roundIndex].matches[i]}/>
             ))}
         </div>
     )

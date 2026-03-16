@@ -85,6 +85,27 @@
 .result {
   font-size: 22px;
   font-weight: bold;
-  width: 60px;
+  min-width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+
+.goalInput{
+  width: 28px;
+  height: 26px;
   text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  border-radius: 6px;
+  border: 1px solid #bbb;
+  outline: none;
+  padding: 0;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
