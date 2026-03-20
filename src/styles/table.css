@@ -1,35 +1,35 @@
 .table{
-    background: white;
-    border-radius: 6px;
-    padding: 6px;
+  background: white;
+  border-radius: 6px;
+  padding: 6px;
 }
 
 table{
-    width: 100%;
-    border-collapse: collapse;
+  width: 100%;
+  border-collapse: collapse;
 }
 
 th{
-    background: #0b3d91;
-    color: white;
-    font-size: 12px;
+  background: #0b3d91;
+  color: white;
+  font-size: 12px;
 }
 
 td, th{
-    padding: 10px 6px;
-    text-align: center;
+  padding: 10px 6px;
+  text-align: center;
 }
 
 .teamCell{
-    display: flex;
-    align-items: center;
-    gap: 6px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
 }
 
 .teamCell img{
-    width: 20px;
-    height: 20px;
-    object-fit: contain;
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
 }
 
 tbody tr:nth-child(even) {
