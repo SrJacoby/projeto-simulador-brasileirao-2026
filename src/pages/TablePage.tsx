@@ -15,10 +15,12 @@ const TablePage = () => {
   return (
     <div className="page">
       <div className="titleBar">
-        <img className="titleIcon" src="/brasileirao.png" />
-        <h1 className="titleText">
-          Simulador Brasileirão 2026
-        </h1>
+        <div className="titleContent">
+          <img className="titleIcon" src="/brasileirao.png" />
+          <h1 className="titleText">
+            Simulador Brasileirão 2026
+          </h1>
+        </div>
     </div>
 
       <div className="layout">

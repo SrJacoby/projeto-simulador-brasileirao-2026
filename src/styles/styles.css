@@ -19,17 +19,26 @@
     box-shadow: 0 3px 6px rgba(0,0,0,0.25);
 }
 
+.titleContent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    max-width: 100%;
+}
+
 .titleText{
     margin: 0;
     font-size: 2rem;
     font-weight: bold;
-    margin: 0.3em 0;
+    text-align: center;
     text-align: center;
 }
 
 .titleIcon{
     height: 50px;
     width: auto;
+    flex-shrink: 0;
 }
 
 .layout{
@@ -65,15 +74,11 @@
         width: 100%;
     }
 
-    .title {
-        font-size: 12px;
+    .titleText{
+        font-size: 1.4rem;
     }
 
-    .titleIcon {
-        height: 35px;
-    }
-
-    .titleBar {
-        padding: 6px 10px;
+    .titleIcon{
+        height: 40px;
     }
 }
