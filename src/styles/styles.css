@@ -62,4 +62,8 @@
     .right{
         width: 100%;
     }
+
+    .titleBar{
+        gap: 5px;
+    }
 }
