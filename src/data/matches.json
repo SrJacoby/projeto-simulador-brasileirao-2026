@@ -42,7 +42,9 @@
                 "awayTeam": "Bahia",
                 "homeGoals": 1,
                 "awayGoals": 2,
-                "date": "2026-01-28"
+                "date": "2026-01-28",
+                "stadium": "Vila Belmiro"
+                
             },
             {
                 "homeTeam": "Chapecoense",
@@ -111,7 +113,8 @@
                 "awayTeam": "Vitória",
                 "homeGoals": 5,
                 "awayGoals": 1,
-                "date": "2026-02-04"
+                "date": "2026-02-04",
+                "stadium": "Arena Barueri"
             },
             {
                 "homeTeam": "Grêmio",
@@ -291,7 +294,8 @@
                 "awayTeam": "Fluminense",
                 "homeGoals": 2,
                 "awayGoals": 1,
-                "date": "2026-02-25"
+                "date": "2026-02-25",
+                "staidum": "Arena Barueri"
             },
             {
                 "homeTeam": "Santos",
@@ -360,7 +364,8 @@
                 "awayTeam": "Chapecoense",
                 "homeGoals": 2,
                 "awayGoals": 0,
-                "date": "2026-03-12"
+                "date": "2026-03-12",
+                "stadium": "Canindé"
             },
             {
                 "homeTeam": "Grêmio",
@@ -371,7 +376,7 @@
             },
             {
                 "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
+                "awayTeam": "Athletico Paranaense",
                 "homeGoals": null,
                 "awayGoals": null,
                 "date": "2026-03-29"
@@ -383,74 +388,74 @@
         "round": 6,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "homeTeam": "Vitória",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": 2,
+                "awayGoals": 0,
+                "date": "2026-03-14"
             },
             {
                 "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-29"
+                "awayTeam": "Flamengo",
+                "homeGoals": 0,
+                "awayGoals": 3,
+                "date": "2026-03-14"
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Corinthians",
+                "homeGoals": 1,
+                "awayGoals": 1,
+                "date": "2026-03-15"
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Bahia",
+                "homeGoals": 0,
+                "awayGoals": 1,
+                "date": "2026-03-15"
+            },
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": 3,
+                "awayGoals": 2,
+                "date": "2026-03-15"
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Remo",
+                "homeGoals": 1,
+                "awayGoals": 0,
+                "date": "2026-03-15"
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Mirassol",
+                "homeGoals": 1,
+                "awayGoals": 0,
+                "date": "2026-03-15"
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "São Paulo",
+                "homeGoals": 1,
+                "awayGoals": 2,
+                "date": "2026-03-15"
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Vasco",
+                "homeGoals": 3,
+                "awayGoals": 3,
+                "date": "2026-03-15"
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Grêmio",
+                "homeGoals": 1,
+                "awayGoals": 1,
+                "date": "2026-03-16"
             }
         ]
     },
@@ -459,74 +464,74 @@
         "round": 7,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Botafogo",
+                "homeGoals": 2,
+                "awayGoals": 1,
+                "date": "2026-03-18"
             },
             {
                 "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
+                "awayTeam": "RB Bragantino",
+                "homeGoals": 2,
+                "awayGoals": 0,
+                "date": "2026-03-18"
             },
             {
-                "homeTeam": "Flamengo",
+                "homeTeam": "Athletico Paranaense",
                 "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
+                "homeGoals": 2,
+                "awayGoals": 1,
+                "date": "2026-03-18"
             },
             {
-                "homeTeam": "Corinthians",
+                "homeTeam": "Mirassol",
                 "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
+                "homeGoals": 0,
+                "awayGoals": 1,
+                "date": "2026-03-18"
             },
             {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "São Paulo",
+                "homeGoals": 1,
+                "awayGoals": 0,
+                "date": "2026-03-18"
             },
             {
                 "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "awayTeam": "Fluminense",
+                "homeGoals": 3,
+                "awayGoals": 2,
+                "date": "2026-03-18"
             },
             {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "homeTeam": "Santos",
+                "awayTeam": "Internacional",
+                "homeGoals": 1,
+                "awayGoals": 2,
+                "date": "2026-03-18"
             },
             {
                 "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "awayTeam": "Vitória",
+                "homeGoals": 2,
+                "awayGoals": 0,
+                "date": "2026-03-19"
             },
             {
-                "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-29"
+                "homeTeam": "Flamengo",
+                "awayTeam": "Remo",
+                "homeGoals": 3,
+                "awayGoals": 0,
+                "date": "2026-03-19"
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Corinthians",
+                "homeGoals": 0,
+                "awayGoals": 0,
+                "date": "2026-03-19"
             }
         ]
     },
@@ -535,74 +540,74 @@
         "round": 8,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Botafogo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-10"
+                "date": "2026-03-21"
             },
             {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
+                "homeTeam": "Fluminense",
+                "awayTeam": "Atlético Mineiro",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": "2026-03-21"
             },
             {
                 "homeTeam": "São Paulo",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": "2026-03-21"
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": "2026-03-22"
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": "2026-03-22"
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": "2026-03-22"
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": "2026-03-22"
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": "2026-03-22"
+            },
+            {
+                "homeTeam": "Internacional",
                 "awayTeam": "Chapecoense",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": "2026-03-22"
             },
             {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
+                "homeTeam": "Corinthians",
+                "awayTeam": "Flamengo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-29"
+                "date": "2026-03-22"
             }
         ]
     },
@@ -611,74 +616,74 @@
         "round": 9,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
+                "homeTeam": "Fluminense",
+                "awayTeam": "Corinthians",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
+                "awayTeam": "Mirassol",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -687,74 +692,74 @@
         "round": 10,
         "matches": [
             {
-                "homeTeam": "Mirassol",
+                "homeTeam": "Flamengo",
                 "awayTeam": "Santos",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
+                "awayTeam": "Botafogo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Botafogo",
                 "awayTeam": "Cruzeiro",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -763,74 +768,74 @@
         "round": 11,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
+                "homeTeam": "Fluminense",
+                "awayTeam": "Flamengo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
+                "awayTeam": "Coritiba",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -839,74 +844,74 @@
         "round": 12,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
                 "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
+                "awayTeam": "Bahia",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
+                "awayTeam": "São Paulo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
+                "homeTeam": "Santos",
+                "awayTeam": "Fluminense",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Athletico Paranaense",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Remo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -915,74 +920,74 @@
         "round": 13,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "São Paulo",
+                "homeTeam": "Fluminense",
                 "awayTeam": "Chapecoense",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Botafogo",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
                 "awayTeam": "Cruzeiro",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
             }
         ]
     },
@@ -991,74 +996,74 @@
         "round": 14,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
                 "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
+                "awayTeam": "Vasco",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
+                "awayTeam": "Remo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -1067,74 +1072,74 @@
         "round": 15,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
+                "homeTeam": "Fluminense",
                 "awayTeam": "Vitória",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
+                "awayTeam": "Athletico Paranaense",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
+                "homeTeam": "Santos",
                 "awayTeam": "RB Bragantino",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "Botafogo",
+                "homeTeam": "Corinthians",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
                 "awayTeam": "Cruzeiro",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -1143,74 +1148,74 @@
         "round": 16,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
+                "homeTeam": "Fluminense",
+                "awayTeam": "São Paulo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Botafogo",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
                 "awayTeam": "Cruzeiro",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -1219,74 +1224,74 @@
         "round": 17,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
                 "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
                 "awayTeam": "Palmeiras",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
+                "homeTeam": "Vasco",
                 "awayTeam": "RB Bragantino",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
+                "homeTeam": "São Paulo",
+                "awayTeam": "Botafogo",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -1295,74 +1300,74 @@
         "round": 18,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
                 "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
                 "awayTeam": "Coritiba",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
+                "awayTeam": "Atlético Mineiro",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "São Paulo",
+                "homeTeam": "Santos",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
                 "awayTeam": "Chapecoense",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             },
             {
                 "homeTeam": "Grêmio",
-                "awayTeam": "RB Bragantino",
+                "awayTeam": "Corinthians",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
-                "homeTeam": "Botafogo",
-                "awayTeam": "Cruzeiro",
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Mirassol",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     },
@@ -1371,74 +1376,1518 @@
         "round": 19,
         "matches": [
             {
-                "homeTeam": "Mirassol",
-                "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-10"
-            },
-            {
-                "homeTeam": "Atlético Mineiro",
-                "awayTeam": "Internacional",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Bahia",
-                "awayTeam": "Vitória",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Flamengo",
-                "awayTeam": "Cruzeiro",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Corinthians",
-                "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-11"
-            },
-            {
-                "homeTeam": "Remo",
-                "awayTeam": "Fluminense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Vasco",
-                "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "São Paulo",
-                "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
-                "date": "2026-03-12"
-            },
-            {
-                "homeTeam": "Grêmio",
+                "homeTeam": "Fluminense",
                 "awayTeam": "RB Bragantino",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-12"
+                "date": null
             },
             {
                 "homeTeam": "Botafogo",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
                 "awayTeam": "Cruzeiro",
                 "homeGoals": null,
                 "awayGoals": null,
-                "date": "2026-03-29"
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 20,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 21,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 22,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 23,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 24,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 25,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 26,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 27,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 28,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 29,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 30,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 31,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 32,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 33,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 34,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 35,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 36,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 37,
+        "matches": [
+            {
+                "homeTeam": "Fluminense",
+                "awayTeam": "Cruzeiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Botafogo",
+                "awayTeam": "Bahia",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "São Paulo",
+                "awayTeam": "Remo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Corinthians",
+                "awayTeam": "Grêmio",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Mirassol",
+                "awayTeam": "Athletico Paranaense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Atlético Mineiro",
+                "awayTeam": "Vasco",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Internacional",
+                "awayTeam": "RB Bragantino",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Coritiba",
+                "awayTeam": "Flamengo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vitória",
+                "awayTeam": "Santos",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Chapecoense",
+                "awayTeam": "Palmeiras",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            }
+        ]
+    },
+
+    {
+        "round": 38,
+        "matches": [
+            {
+                "homeTeam": "Flamengo",
+                "awayTeam": "Chapecoense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Vasco",
+                "awayTeam": "Vitória",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Santos",
+                "awayTeam": "Botafogo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Palmeiras",
+                "awayTeam": "Coritiba",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "RB Bragantino",
+                "awayTeam": "Fluminense",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Cruzeiro",
+                "awayTeam": "Internacional",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Grêmio",
+                "awayTeam": "Mirassol",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Athletico Paranaense",
+                "awayTeam": "São Paulo",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Bahia",
+                "awayTeam": "Atlético Mineiro",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
+            },
+            {
+                "homeTeam": "Remo",
+                "awayTeam": "Corinthians",
+                "homeGoals": null,
+                "awayGoals": null,
+                "date": null
             }
         ]
     }

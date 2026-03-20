@@ -4,4 +4,5 @@ export interface Match{
     homeGoals: number | null
     awayGoals: number | null
     date: string | null
+    stadium?: string
 }

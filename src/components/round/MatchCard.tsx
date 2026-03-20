@@ -20,7 +20,7 @@ export default function MatchCard({match, originalMatch, roundIndex, matchIndex,
     const home = teams.find(t => t.name === match.homeTeam)
     const away = teams.find(t => t.name === match.awayTeam)
 
-    const stadium = home?.stadium
+    const stadium = match.stadium ?? home?.stadium
 
     const editable = originalMatch.homeGoals === null || originalMatch.awayGoals === null
 

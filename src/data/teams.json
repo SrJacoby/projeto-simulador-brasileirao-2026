@@ -3,120 +3,120 @@
         "name": "Athletico Paranaense",
         "shortName": "ATH",
         "stadium": "Arena da Baixada",
-        "logo": "/logos/athleticopr.png"
+        "logo": "/logos-times/athleticopr.png"
     },
     {
         "name": "Atlético Mineiro",
         "shortName": "ATL",
         "stadium": "Arena MRV",
-        "logo": "/logos/atleticomg.png"
+        "logo": "/logos-times/atleticomg.png"
     },
     {
         "name": "Bahia",
         "shortName": "BAH",
         "stadium": "Arena Fonte Nova",
-        "logo": "/logos/bahia.png"
+        "logo": "/logos-times/bahia.png"
     },
     {
         "name": "Botafogo",
         "shortName": "BOT",
         "stadium": "Nilton Santos",
-        "logo": "/logos/botafogo.png"
+        "logo": "/logos-times/botafogo.png"
     },
     {
         "name": "Chapecoense",
         "shortName": "CHA",
         "stadium": "Arena Condá",
-        "logo": "/logos/chapecoense.png"
+        "logo": "/logos-times/chapecoense.png"
     },
     {
         "name": "Corinthians",
         "shortName": "COR",
         "stadium": "Neo Química Arena",
-        "logo": "/logos/corinthians.png"
+        "logo": "/logos-times/corinthians.png"
     },
     {
         "name": "Coritiba",
         "shortName": "COR",
         "stadium": "Couto Pereira",
-        "logo": "/logos/coritiba.png"
+        "logo": "/logos-times/coritiba.png"
     },
     {
         "name": "Cruzeiro",
         "shortName": "CRU",
         "stadium": "Mineirão",
-        "logo": "/logos/cruzeiro.png"
+        "logo": "/logos-times/cruzeiro.png"
     },
     {
         "name": "Flamengo",
         "shortName": "FLA",
         "stadium": "Maracanã",
-        "logo": "/logos/flamengo.png"
+        "logo": "/logos-times/flamengo.png"
     },
     {
         "name": "Fluminense",
         "shortName": "FLU",
         "stadium": "Maracanã",
-        "logo": "/logos/fluminense.png"
+        "logo": "/logos-times/fluminense.png"
     },
     {
         "name": "Grêmio",
         "shortName": "GRE",
         "stadium": "Arena do Grêmio",
-        "logo": "/logos/gremio.png"
+        "logo": "/logos-times/gremio.png"
     },
     {
         "name": "Internacional",
         "shortName": "INT",
         "stadium": "Beira-Rio",
-        "logo": "/logos/internacional.png"
+        "logo": "/logos-times/internacional.png"
     },
     {
         "name": "Mirassol",
         "shortName": "MIR",
         "stadium": "Maião",
-        "logo": "/logos/mirassol.png"
+        "logo": "/logos-times/mirassol.png"
     },
     {
         "name": "Palmeiras",
         "shortName": "PAL",
         "stadium": "Allianz Parque",
-        "logo": "/logos/palmeiras.png"
+        "logo": "/logos-times/palmeiras.png"
     },
     {
         "name": "RB Bragantino",
         "shortName": "RBB",
         "stadium": "Cícero de Souza Marques",
-        "logo": "/logos/bragantino.png"
+        "logo": "/logos-times/bragantino.png"
     },
     {
         "name": "Remo",
         "shortName": "REM",
         "stadium": "Mangueirão",
-        "logo": "/logos/remo.png"
+        "logo": "/logos-times/remo.png"
     },
     {
         "name": "Santos",
         "shortName": "SAN",
         "stadium": "Vila Belmiro",
-        "logo": "/logos/santos.png"
+        "logo": "/logos-times/santos.png"
     },
     {
         "name": "São Paulo",
         "shortName": "SAO",
         "stadium": "Morumbis",
-        "logo": "/logos/saopaulo.png"
+        "logo": "/logos-times/saopaulo.png"
     },
     {
         "name": "Vasco",
         "shortName": "VAS",
         "stadium": "São Januário",
-        "logo": "/logos/vasco.png"
+        "logo": "/logos-times/vasco.png"
     },
     {
         "name": "Vitória",
         "shortName": "VIT",
         "stadium": "Barradão",
-        "logo": "/logos/vitoria.png"
+        "logo": "/logos-times/vitoria.png"
     }
 ]

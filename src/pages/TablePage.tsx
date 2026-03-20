@@ -14,10 +14,12 @@ const TablePage = () => {
 
   return (
     <div className="page">
-
-      <h1 className="title">
-        Simulador Brasileirão 2026
-      </h1>
+      <div className="titleBar">
+        <img className="titleIcon" src="/brasileirao.png" />
+        <h1 className="titleText">
+          Simulador Brasileirão 2026
+        </h1>
+    </div>
 
       <div className="layout">
 
