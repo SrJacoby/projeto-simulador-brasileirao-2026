@@ -12,7 +12,19 @@ interface Props {
 }
 
 export default function RoundViewer({ rounds, setRounds, originalRounds }: Props) {
-    const [roundIndex, setRoundIndex] = useState(0)
+    const [roundIndex, setRoundIndex] = useState(() => {
+        for(let i=0; i<rounds.length; i++){
+            const allPlayed = rounds[i].matches.every(
+                m => m.homeGoals !== null && m.awayGoals !== null
+            )
+
+            if(!allPlayed){
+                return i
+            }
+        }
+
+        return 0
+    })
     const round = rounds[roundIndex]
 
     function next(){

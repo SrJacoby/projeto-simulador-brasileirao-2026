@@ -24,12 +24,13 @@ td, th{
   display: flex;
   align-items: center;
   gap: 6px;
+  text-align: right;
 }
 
 .teamCell img{
   width: 20px;
   height: 20px;
-  object-fit: contain;
+    object-fit: contain;
 }
 
 tbody tr:nth-child(even) {
