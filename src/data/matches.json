@@ -542,71 +542,71 @@
             {
                 "homeTeam": "RB Bragantino",
                 "awayTeam": "Botafogo",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 1,
+                "awayGoals": 2,
                 "date": "2026-03-21"
             },
             {
                 "homeTeam": "Fluminense",
                 "awayTeam": "Atlético Mineiro",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 1,
+                "awayGoals": 0,
                 "date": "2026-03-21"
             },
             {
                 "homeTeam": "São Paulo",
                 "awayTeam": "Palmeiras",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 0,
+                "awayGoals": 1,
                 "date": "2026-03-21"
             },
             {
                 "homeTeam": "Vasco",
                 "awayTeam": "Grêmio",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 2,
+                "awayGoals": 1,
                 "date": "2026-03-22"
             },
             {
                 "homeTeam": "Cruzeiro",
                 "awayTeam": "Santos",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 0,
+                "awayGoals": 0,
                 "date": "2026-03-22"
             },
             {
                 "homeTeam": "Athletico Paranaense",
                 "awayTeam": "Coritiba",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 2,
+                "awayGoals": 0,
                 "date": "2026-03-22"
             },
             {
                 "homeTeam": "Remo",
                 "awayTeam": "Bahia",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 4,
+                "awayGoals": 1,
                 "date": "2026-03-22"
             },
             {
                 "homeTeam": "Vitória",
                 "awayTeam": "Mirassol",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 1,
+                "awayGoals": 0,
                 "date": "2026-03-22"
             },
             {
                 "homeTeam": "Internacional",
                 "awayTeam": "Chapecoense",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 0,
+                "awayGoals": 2,
                 "date": "2026-03-22"
             },
             {
                 "homeTeam": "Corinthians",
                 "awayTeam": "Flamengo",
-                "homeGoals": null,
-                "awayGoals": null,
+                "homeGoals": 1,
+                "awayGoals": 1,
                 "date": "2026-03-22"
             }
         ]
